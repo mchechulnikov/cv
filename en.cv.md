@@ -1,17 +1,17 @@
 # Maxim Chechulnikov
 ## Software Development Engineer / Architect / Team Lead. 10 years of experience. 
 
-Date of birth   June 11, 1990
-Current location    Saint Petersburg, Russia
-Phone   +7 (995) 595-32-64
-Email   ilfirin.nar@gmail.com
+Date of birth | June 11, 1990
+Current location | Saint Petersburg, Russia
+Phone | +7 (995) 595-32-64
+Email | ilfirin.nar@gmail.com
 
 Key skills:
 - Design and development of scalable data-intensive software systems
 - Management of 
 - - up to 5 dev teams
 - - up to 7 team leads / architects
-- -  and up to 50 employees overall
+- - and up to 50 employees overall
 - Delivery management (processes building)
 
 Primary tech stack right now is Go, Docker
@@ -61,6 +61,8 @@ I’ve been involved in infrastructure-significant tasks for EdTech platform «D
 Analysis and implementation of a geo-distributed data-intensive application without any IaaS or cloud providers. As a result, the load was decreased more than 30% and a resharding subsystem was incorporated. It allowed to redistribute data in DB cluster in a background, without sufficient data access locking.
 
 Technologies used: .NET, MS SQL Server, Redis, RabbitMQ
+
+https://dnevnik.ru
 
 
 ### Moe Delo | SDE | Penza, Russia | 2012 – 2015
