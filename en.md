@@ -87,7 +87,7 @@ Technologies used: .NET, MS SQL Server
 https://www.moedelo.org 
 
 
-### Solid | SDE | Пенза, 2012
+### Solid | SDE | Penza, 2012
 Developed server-side of a video surveillance system. Adopted client-side application. Integrated with company’s other products
 
 Technologies used: C++, Qt, GStreamer, IP cameras
