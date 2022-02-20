@@ -110,3 +110,10 @@ Technologies used: .NET, MS SQL Server
 Developed server-side of a video surveillance system. Adopted client-side application. Integrated with company’s other products
 
 Technologies used: C++, Qt, GStreamer, IP cameras
+
+## Education
+[Penza State University](https://international.pnzgu.ru)
+
+Specialist degree, Mathematics and Computer Science
+
+2007 - 2012
