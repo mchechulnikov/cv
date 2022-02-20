@@ -18,6 +18,32 @@ Email | ilfirin.nar@gmail.com
 
 
 ## Опыт работы
+```mermaid
+gantt
+    title Work experience on timeline
+    dateFormat  YYYY-MM
+    axisFormat  %Y
+    todayMarker stroke-width:5px, opacity:0.75
+    
+    section Software Engineer
+    Solid       :done, sd, 2012-02, 40w
+    Moe Delo    :done, md, 2012-11, 140w
+    Dnevnik.ru  :done, dn, 2015-08, 78w
+    Tinkoff     :active, tfsde, 2017-11, 56w
+    
+    section Software Architect
+    Start contract: milestone, contract, after dn, 1s
+    Smartway    :done, sw, 2017-02, 38w
+    Finish contact: milestone, contract, after sw, 1s
+    
+    section Team Lead
+    Tinkoff     :active, tftl, after tfsde, 94w
+    
+    section Head of Unit
+    Tinkoff     :active, tf, after tftl, 100w
+    now         :now
+```
+
 ### Тинькофф | Head Of Dev Unit | Санкт-Петербург, 2017 – настоящее время
 - Управление отделом разработки (60+ чел, 5 команд, 5 тимлидов, 2 архитектора).
 - Построение процессов, архитектура, работа с людьми в команде: процессы развития команды, повышением инженерной культуры, разрешение командных проблем, onboarding новых сотрудников, найм и проведение интервью, построением отношений с другими подразделениями.
@@ -26,7 +52,7 @@ Email | ilfirin.nar@gmail.com
 - Улучшением автоматизации рутинных командных процессов – Slack-боты, скрипты различного назначения и т.д.
 
 
-### Smartway | Architect | Санкт-Петербург, 2017
+### Smartway | Architect | Временный контракт | Санкт-Петербург, 2017
 B2B SaaS комплексного бронирования командировок. С ростом количества функционала критически выросла необходимость эффективного управления сложностью и сопровождения.
 
 Реорганизовал архитектуру приложения и процессы разработки таким образом, чтобы:
