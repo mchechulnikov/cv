@@ -34,7 +34,7 @@ gantt
     Solid       :done, sd, 2012-02, 40w
     Moe Delo    :done, md, 2012-11, 140w
     Dnevnik.ru  :done, dn, 2015-08, 78w
-    Tinkoff     :active, tfsde, 2017-11, 56w
+    Tinkoff     :active, tfsde, 2017-11, 60w
     
     section Software Architect
     Smartway    :done, sw, 2017-02, 38w
