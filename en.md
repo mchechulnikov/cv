@@ -44,7 +44,7 @@ gantt
     
     section Head of Unit
     Tinkoff     :active, tf, after tftl, 100w
-    now         :now
+    now         :milestone, now, 1s
 ```
 
 ### [Tinkoff](https://www.tinkoff.ru ) | Head Of Dev Unit | St.Petersburg, Russia | 2017 – current time
