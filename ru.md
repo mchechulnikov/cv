@@ -1,10 +1,12 @@
 # Чечульников Максим
 ## Software Development Engineer / Architect / Teamlead. 10 лет опыта.
 
-Дата рождения | 11 июня 1990
-Город | Санкт-Петербург
-Телефон | +7 (995) 595-32-64
-Email | ilfirin.nar@gmail.com
+| Item | Info |
+| :--- | ---: |
+| Дата рождения | 11 июня 1990
+| Город | Санкт-Петербург
+| Телефон | +7 (995) 595-32-64
+| Email | ilfirin.nar@gmail.com
 
 Ключевые навыки:
 - Проектирование и разработка масштабируемых и нагруженных систем
@@ -29,12 +31,10 @@ gantt
     Solid       :done, sd, 2012-02, 40w
     Moe Delo    :done, md, 2012-11, 140w
     Dnevnik.ru  :done, dn, 2015-08, 78w
-    Tinkoff     :active, tfsde, 2017-11, 56w
+    Tinkoff     :active, tfsde, 2017-11, 60w
     
     section Software Architect
-    Start contract: milestone, contract, after dn, 1s
     Smartway    :done, sw, 2017-02, 38w
-    Finish contact: milestone, contract, after sw, 1s
     
     section Team Lead
     Tinkoff     :active, tftl, after tfsde, 94w
@@ -52,7 +52,7 @@ gantt
 - Улучшением автоматизации рутинных командных процессов – Slack-боты, скрипты различного назначения и т.д.
 
 
-### Smartway | Architect | Временный контракт | Санкт-Петербург, 2017
+### Smartway | Sowftare Architect (контракт) | Санкт-Петербург, 2017
 B2B SaaS комплексного бронирования командировок. С ростом количества функционала критически выросла необходимость эффективного управления сложностью и сопровождения.
 
 Реорганизовал архитектуру приложения и процессы разработки таким образом, чтобы:
