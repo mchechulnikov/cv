@@ -37,9 +37,7 @@ gantt
     Tinkoff     :active, tfsde, 2017-11, 56w
     
     section Software Architect
-    Start contract: milestone, contract, after dn, 1s
     Smartway    :done, sw, 2017-02, 38w
-    Finish contact: milestone, contract, after sw, 1s
     
     section Team Lead
     Tinkoff     :active, tftl, after tfsde, 94w
