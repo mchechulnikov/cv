@@ -1,10 +1,12 @@
 # Maxim Chechulnikov
 ## Software Development Engineer / Architect / Team Lead. 10 years of experience. 
 
-Date of birth | June 11, 1990
-Current location | Saint Petersburg, Russia
-Phone | +7 (995) 595-32-64
-Email | ilfirin.nar@gmail.com
+| Item | Info |
+| :--- | ---: |
+|Date of birth | June 11, 1990
+|Current location | Saint Petersburg, Russia
+|Phone | +7 (995) 595-32-64
+|Email | ilfirin.nar@gmail.com
 
 Key skills:
 - Design and development of scalable data-intensive software systems
@@ -14,14 +16,32 @@ Key skills:
 	- and up to 50 employees overall
 - Delivery management (processes building)
 
-Primary tech stack right now is Go, Docker
+Primary tech stack right now is Go
 
 Interested in functional programming, Haskell, Elm, PureScript
 
-Experienced with .NET, ASP.NET Core, MS SQL Server, MongoDB, Redis, RabbitMQ, Kafka, JavaScript / TypeScript, Angular, PowerShell / Bash, Linux containers
+Experienced with .NET, ASP.NET Core, MS SQL Server, MongoDB, Redis, RabbitMQ, Kafka, JavaScript / TypeScript, Angular, PowerShell / Bash, Linux containers, Docker
 
 ## Experience
-### Tinkoff | Head Of Dev Unit | St.Petersburg, Russia | 2017 – current time
+```mermaid
+gantt
+    title Work experience on timeline
+    dateFormat  YYYY-MM
+    section Software Engineer
+    Solid       :sd, 2012-02, 40w
+    Moe Delo    :md, 2012-11, 140w
+    Dnevnik.ru  :dn, 2015-08, 78w
+    Tinkoff     :tf, 2017-11, 56w
+    section Software Architect
+    Smartway    :sw, 2017-02, 35w
+    section Team Lead
+    Tinkoff     :tf, 2018-11, 94w
+    section Head of Unit
+    Tinkoff     :tf, 2020-08, 90w
+    now         :now,
+```
+
+### [Tinkoff](https://www.tinkoff.ru ) | Head Of Dev Unit | St.Petersburg, Russia | 2017 – current time
 One of the most advanced Russian fintech company. 
 - Organised technological process of scaling internal services for building world-wide operational platform, lift & shift to clouds
 - Management of one dev unit (50+ employees, 5 teams, 7 team leads/architects).
@@ -29,11 +49,10 @@ One of the most advanced Russian fintech company.
 - Service design and development of services for info support and training for remote employees: chat bots, notification & feedback services, digital workplace, tools for business process automation in zero/low code paradigm, etc
 - Team processes automation
 
-About company https://www.tinkoffgroup.com/company-info/summary/ 
-Main page https://www.tinkoff.ru 
+[About company](https://www.tinkoffgroup.com/company-info/summary/)
 
 
-### Smartway | Software Architect | St.Petersburg, Russia | 2017
+### [Smartway](https://smartway.today ) | Software Architect | St.Petersburg, Russia | 2017
 B2B SaaS for business trips. Web-project in which functionality expansion made it necessary to develop efficient complexity management and maintenance.
 
 Reorganised service architecture and dev processes in a way that:
@@ -54,20 +73,16 @@ Transform to a distributed system is most often accompanied by a strong change i
 
 Technologies used: Go, .NET, MS SQL Server, MongoDB
 
-https://smartway.today 
 
-
-### Dnevnik.ru | SDE | St.Petersburg, Russia | 2015 – 2017
+### [Dnevnik.ru](https://dnevnik.ru) | SDE | St.Petersburg, Russia | 2015 – 2017
 I’ve been involved in infrastructure-significant tasks for EdTech platform «Dnevnik.ru».
 
 Analysis and implementation of a geo-distributed data-intensive application without any IaaS or cloud providers. As a result, the load was decreased more than 30% and a resharding subsystem was incorporated. It allowed to redistribute data in DB cluster in a background, without sufficient data access locking.
 
 Technologies used: .NET, MS SQL Server, Redis, RabbitMQ
 
-https://dnevnik.ru
 
-
-### Moe Delo | SDE | Penza, Russia | 2012 – 2015
+### [Moe Delo](https://www.moedelo.org) | SDE | Penza, Russia | 2012 – 2015
 Over the course of 3 years implemented:
 - mobile application backend API from scratch
 - dramatically renewed user access system that allowed to support multiuser accounts
@@ -83,8 +98,6 @@ Over the course of 3 years implemented:
 - rethinking and extension of corporate development standards
 
 Technologies used: .NET, MS SQL Server
-
-https://www.moedelo.org 
 
 
 ### Solid | SDE | Penza, 2012
