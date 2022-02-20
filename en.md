@@ -27,18 +27,24 @@ Experienced with .NET, ASP.NET Core, MS SQL Server, MongoDB, Redis, RabbitMQ, Ka
 gantt
     title Work experience on timeline
     dateFormat  YYYY-MM
+    axisFormat  %Y
+    
     section Software Engineer
-    Solid       :sd, 2012-02, 40w
-    Moe Delo    :md, 2012-11, 140w
-    Dnevnik.ru  :dn, 2015-08, 78w
-    Tinkoff     :tf, 2017-11, 56w
+    Solid       :done, sd, 2012-02, 40w
+    Moe Delo    :done, md, 2012-11, 140w
+    Dnevnik.ru  :done, dn, 2015-08, 78w
+    Tinkoff     :active, tfsde, 2017-11, 56w
+    
     section Software Architect
-    Smartway    :sw, 2017-02, 35w
+    Start contract: milestone, contract, after dn, 1s
+    Smartway    :done, sw, 2017-02, 35w
+    Finish contact: milestone, contract, after sw, 1s
+    
     section Team Lead
-    Tinkoff     :tf, 2018-11, 94w
+    Tinkoff     :active, tftl, after tfsde, 94w
+    
     section Head of Unit
-    Tinkoff     :tf, 2020-08, 90w
-    now         :now,
+    Tinkoff     :active, tf, after tftl, 
 ```
 
 ### [Tinkoff](https://www.tinkoff.ru ) | Head Of Dev Unit | St.Petersburg, Russia | 2017 – current time
