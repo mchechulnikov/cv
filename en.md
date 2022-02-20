@@ -28,6 +28,7 @@ gantt
     title Work experience on timeline
     dateFormat  YYYY-MM
     axisFormat  %Y
+    todayMarker stroke-width:5px, opacity:0.75
     
     section Software Engineer
     Solid       :done, sd, 2012-02, 40w
@@ -37,14 +38,15 @@ gantt
     
     section Software Architect
     Start contract: milestone, contract, after dn, 1s
-    Smartway    :done, sw, 2017-02, 35w
+    Smartway    :done, sw, 2017-02, 38w
     Finish contact: milestone, contract, after sw, 1s
     
     section Team Lead
     Tinkoff     :active, tftl, after tfsde, 94w
     
     section Head of Unit
-    Tinkoff     :active, tf, after tftl, 
+    Tinkoff     :active, tf, after tftl, 100w
+    now         :now
 ```
 
 ### [Tinkoff](https://www.tinkoff.ru ) | Head Of Dev Unit | St.Petersburg, Russia | 2017 – current time
@@ -58,7 +60,7 @@ One of the most advanced Russian fintech company.
 [About company](https://www.tinkoffgroup.com/company-info/summary/)
 
 
-### [Smartway](https://smartway.today ) | Software Architect | St.Petersburg, Russia | 2017
+### [Smartway](https://smartway.today ) | Software Architect (contract work) | St.Petersburg, Russia | 2017
 B2B SaaS for business trips. Web-project in which functionality expansion made it necessary to develop efficient complexity management and maintenance.
 
 Reorganised service architecture and dev processes in a way that:
